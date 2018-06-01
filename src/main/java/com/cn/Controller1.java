@@ -19,7 +19,7 @@ public class Controller1 {
     @Autowired
     private UserService userService;
 
-    //注入redis模板dd
+    //注入redis模板ddddd
     @Autowired
     private RedisTemplate<Object,Object> redisTemplate;
 
