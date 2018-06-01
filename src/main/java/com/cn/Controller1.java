@@ -3,7 +3,6 @@ package com.cn;
 
 import com.pojo.User;
 import com.service.UserService;
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Controller;
